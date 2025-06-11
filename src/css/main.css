@@ -11,7 +11,7 @@
 a#yotpo-widget-btn {
     text-decoration: none;
 }
-
+.accordion-button{font-size:20px!important;}
 .accordion-item{
 
   background:#F8F8FA;
