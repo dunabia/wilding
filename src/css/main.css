@@ -1,7 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-html {
-    font-size: 12px;
-  }
+
 :root {
   --generic-template-background: #f2f2f2;
   --logo-width: 200px;
